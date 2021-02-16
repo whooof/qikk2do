@@ -23,6 +23,15 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  firebase_core: 
+  firebase_auth:
+  firebase_analytics:
+  cloud_firestore:
+
+  google_sign_in: 
+  sign_button: ^1.0.2
+
+  lint:
 
 
   # The following adds the Cupertino Icons font to your application.
